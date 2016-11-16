@@ -4,4 +4,4 @@ The paper is currently titled "Stream Mining Algorithms for Sensor Data Classiï¬
 # Authors' Contributions
 * Yue Dong, Philippe Paradis and Nathalie Japkowicz were responsible for the various ideas presented in the paper and the design of the experiments.
 * Yue Dong and Philippe Paradis are the two main contributors to writing paper.
-* Philippe Paradis was solely responsible for the all code implemented the experimental tests and the generation of figures.
+* Philippe Paradis was responsible for implementing all the code that performs the experimental tests and produced the results. He also wrote the code to generate all the figures.
